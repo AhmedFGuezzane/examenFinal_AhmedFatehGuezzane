@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>INTRA</title>
 </head>
 <body>
-
+ <h2> Examen Intra - Ahmed Fateh Guezzane</h2>
 </body>
 </html>
