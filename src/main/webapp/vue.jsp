@@ -14,5 +14,6 @@
  <h2> Examen Intra - Ahmed Fateh Guezzane</h2>
 <p> Ceci est la derniere modification de la vue vue.jsp pour l'examen final - 12 mars 2025</p>
  <p>Modif 2025-04-04 3h41</p>
+ <p>Modif 2025-04-04 3h41 n02</p>
 </body>
 </html>
